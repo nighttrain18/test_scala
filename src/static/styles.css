@@ -1,0 +1,16 @@
+#security-table {
+    border: 1px solid black;
+    margin: auto;
+}
+
+.form {
+    margin: 10px 10px 10px 10px;
+}
+
+.form > * {
+    margin: 10px 10px 10px 10px;
+}
+
+.error {
+    color: red;
+}
